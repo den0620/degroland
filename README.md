@@ -1,11 +1,13 @@
 # Degroland site
 OEM Degroland (i.e. my-made)
 
-This is the reference implementation of a [Degroland](https://degroland.site) website
+Still partially WIP
 
-which is a successor to the old bootstrap5-built (merge of examples) [Old Degroland](https://old.degroland.site)
+This is the reference implementation of a [Selfre / Degroland](https://selfre.cc) website
 
-Both are made in plain HTML + CSS (no python, no wordpress, and probably no javascript since this is myself-assembled website) *except for the two widgets (official [Discord's](https://discord.com/blog/add-the-discord-widget-to-your-site/) and [Telegram's](https://core.telegram.org/widgets/post))*
+which is a successor (megre of vibecoded samples) to the old hand-made minimal website that was a successor to the very old bootstrap5-built (merge of examples)
+
+All three are made in plain HTML + CSS (no python, no wordpress, and probably no javascript since this is myself-assembled website)
 
 ![Preview](preview.jpg)
 
